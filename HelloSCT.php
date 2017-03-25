@@ -14,7 +14,10 @@
       die("Connection failed: " . $conn->connect_error);
   }
   echo "Hello SourceTree";
+<<<<<<< HEAD
   echo "New NAJA";
+=======
+>>>>>>> 08055c4a22c1485a2f7e769e325e01920c761b3f
   echo "Connected successfully";
   ?>
 
